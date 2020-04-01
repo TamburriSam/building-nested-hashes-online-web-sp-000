@@ -19,11 +19,9 @@ def bonus
       ]
    }
   }
-end
 
-  epic_tragedy[:montague][:hero][:status] << "Dead"
-  epic_tragedy[:capulet][:hero][:status] << "Dead"
-end
+  epic_tragedy[:montague][:hero][:status] << "dead"
+  epic_tragedy[:capulet][:hero][:status] << "dead"
 
 
 
